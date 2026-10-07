@@ -9,3 +9,9 @@ config REALME_EVEN
     default n
     help
       Say Y if you want to include support for realme C25/s/Narzo 50A
+
+config REALME_RUI2
+    bool "Support realme RUI2"
+    default n
+    help
+      Say Y if you want to include support for realme RUI2
